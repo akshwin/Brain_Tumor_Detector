@@ -1,8 +1,7 @@
-numpy 
-pandas 
-glob 
+numpy
+pandas
 matplotlib
 keras
 tensorflow
-PIL
-IPython
+Pillow
+ipython
