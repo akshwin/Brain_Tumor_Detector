@@ -1,0 +1,8 @@
+numpy 
+pandas 
+glob 
+matplotlib
+keras
+tensorflow
+PIL
+IPython
