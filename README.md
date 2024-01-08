@@ -1,8 +1,7 @@
-Certainly! Here's the README without the code snippets:
 
+# Brain Tumor Detection using Deep Learning 
 ---
 
-# Brain Tumor Detection using Streamlit and TensorFlow/Keras
 
 ## Overview
 
